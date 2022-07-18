@@ -17,7 +17,7 @@
 ## Stand-Ups / Milestones
 - [x] Implement directed weighted graph and the shortest path algorithm
 - [x] Design and plan frontend, backend, and data-wrangler interfaces
-- [x] Implement frontend, backend, and data-wrangle and integrate together
+- [x] Build and integrate
 
 ## Team
 - **Jackson Camp**, UW-Madison -> Cornell University
