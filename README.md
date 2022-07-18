@@ -20,7 +20,7 @@
 - [x] Build and integrate
 
 ## Team
-- **Jackson Camp**, UW-Madison -> Cornell University
+- **Jackson Camp**, UW-Madison
 - **Kyle Johnson**, UW-Madison
 - **Brendan Chang**, UW-Madison
 - **Kyle Sung**, UW-Madison
