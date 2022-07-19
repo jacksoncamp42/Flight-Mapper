@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/37753577/179615777-a9b155cb-2ba0-4cec-b785-c019f79ae4ae.png)
+![image](https://user-images.githubusercontent.com/37753577/179848717-a3e2b57e-61d2-4c79-ac37-d6d7907c9e82.gif)
 # Flight Mapper
 **About:** App that helps users schedule trips from destination A to destination B
 
